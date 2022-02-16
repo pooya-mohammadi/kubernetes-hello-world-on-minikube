@@ -1,0 +1,4 @@
+Flask==2.0.2
+pytest==6.2.5
+pylint==2.12.2
+pytest-cov==3.0.0
